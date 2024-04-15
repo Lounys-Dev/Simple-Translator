@@ -1,0 +1,3 @@
+- customtkinter
+- deep_translator
+- pillow
