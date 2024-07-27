@@ -1,7 +1,7 @@
 # Presentation
 Simple Translator is a little app created in Custom Tkinter (Python). It can translate all languages.
 
-![Image of Simple Translator]("photo_example.jpg")
+![Image of Simple Translator]("example_image.jpg")
 
 # Instalation
 Go to the directory of the program (with `cd`)
